@@ -29,3 +29,8 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## Deployment results
+
+Cloudfront URL: https://d1hqe1zcbp6dxa.cloudfront.net
+S3 bucket URL: http://my-angular-app-js2.s3-website-eu-west-1.amazonaws.com (Access is denied 403, according to the task)
